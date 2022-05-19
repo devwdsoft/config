@@ -1,7 +1,7 @@
 {
   "baseUrl": "https://ffscore.net/api/flashscore/",
   "minAcceptVersion": 1,
-  "isContainsAds": false,
+  "isContainsAds": true,
   "isMaintains": false,
   "startMaintains": 0,
   "endMaintains": 0,
