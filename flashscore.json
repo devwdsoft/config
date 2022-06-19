@@ -5,7 +5,7 @@
   "isMaintains": false,
   "startMaintains": 0,
   "endMaintains": 0,
-  "isUseInAppUpdate": true,
+  "isUseInAppUpdate": false,
   "imageUrls": [
     "https://flashscore-source.000webhostapp.com/",
     "https://wd-source.000webhostapp.com/",
