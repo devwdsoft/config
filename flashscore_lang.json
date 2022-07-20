@@ -64,6 +64,7 @@
     "update_title": "Đã Có Phiên Bản Mới",
     "update_message": "Vui lòng cập nhật phiên bản mới!",
     "update_button": "CẬP NHẬT NGAY",
+    "news_title": "Tin Nhanh Bóng Đá",
     "view_more": "Xem Thêm"
   },
   "en_US": {
@@ -131,6 +132,7 @@
     "update_title": "New Version Available",
     "update_message": "Please update to latest version. Thank you!",
     "update_button": "UPDATE NOW",
+    "news_title": "Football Breaking News",
     "view_more": "View More"
   }
 }
