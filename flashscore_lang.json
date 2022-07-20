@@ -63,7 +63,8 @@
     "maintain_message": "Vui lòng quay lại sau. Xin lỗi vì sự bất tiện này!",
     "update_title": "Đã Có Phiên Bản Mới",
     "update_message": "Vui lòng cập nhật phiên bản mới!",
-    "update_button": "CẬP NHẬT NGAY"
+    "update_button": "CẬP NHẬT NGAY",
+    "view_more": "Xem Thêm"
   },
   "en_US": {
     "version": "Version",
@@ -129,6 +130,7 @@
     "maintain_message": "Please comeback later. Sorry for the inconvenience.",
     "update_title": "New Version Available",
     "update_message": "Please update to latest version. Thank you!",
-    "update_button": "UPDATE NOW"
+    "update_button": "UPDATE NOW",
+    "view_more": "View More"
   }
 }
