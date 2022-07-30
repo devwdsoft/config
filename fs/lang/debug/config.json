@@ -65,7 +65,11 @@
     "update_message": "Vui lòng cập nhật phiên bản mới!",
     "update_button": "CẬP NHẬT NGAY",
     "news_title": "Tin Nhanh Bóng Đá",
-    "view_more": "Xem Thêm"
+    "view_more": "Xem Thêm",
+    "upgrade_title": "Nâng Cấp lên Phiên Bản Pro",
+    "upgrade_no_ads": "Không chứa quảng cáo.",
+    "upgrade_better": "Có trải nghiệm tốt hơn.",
+    "upgrade": "NÂNG CẤP NGAY"
   },
   "en_US": {
     "version": "Version",
@@ -133,6 +137,10 @@
     "update_message": "Please update to latest version. Thank you!",
     "update_button": "UPDATE NOW",
     "news_title": "Football Breaking News",
-    "view_more": "View More"
+    "view_more": "View More",
+    "upgrade_title": "Upgrade to Pro Version",
+    "upgrade_no_ads": "No ads.",
+    "upgrade_better": "Have better experience.",
+    "upgrade": "UPGRADE NOW"
   }
 }
