@@ -15,7 +15,8 @@
     "dark_mode": "Nền tối",
     "timezone": "Múi giờ",
     "rate_app": "Đánh giá",
-    "upgrade": "Nâng cấp phiên bản",
+    "remove_ads": "Xóa Quảng Cáo",
+    "donate": "Donate",
     "summary": "Tổng quan",
     "statistics": "Thống kê",
     "lineup": "Đội hình",
@@ -65,7 +66,14 @@
     "update_message": "Vui lòng cập nhật phiên bản mới!",
     "update_button": "CẬP NHẬT NGAY",
     "news_title": "Tin Nhanh Bóng Đá",
-    "view_more": "Xem Thêm"
+    "view_more": "Xem Thêm",
+    "upgrade_title": "Nâng Cấp lên Phiên Bản Pro",
+    "upgrade_no_ads": "Không chứa quảng cáo.",
+    "upgrade_better": "Có trải nghiệm tốt hơn.",
+    "upgrade": "NÂNG CẤP NGAY",
+    "donate_message": "Mọi sự donate của bạn đều là nguồn động viên to lớn cho chúng tôi <3.",
+    "donate_question": "Bạn muốn donate bao nhiêu?",
+    "thank": "Cảm ơn bạn đã donate <3."
   },
   "en_US": {
     "version": "Version",
@@ -83,7 +91,8 @@
     "dark_mode": "Dark mode",
     "timezone": "Time zone",
     "rate_app": "Rate this App",
-    "upgrade": "Upgrade to Pro version",
+    "remove_ads": "Remove Ads",
+    "donate": "Donate",
     "summary": "Summary",
     "statistics": "Statistics",
     "lineup": "Lineups",
@@ -133,6 +142,13 @@
     "update_message": "Please update to latest version. Thank you!",
     "update_button": "UPDATE NOW",
     "news_title": "Football Breaking News",
-    "view_more": "View More"
+    "view_more": "View More",
+    "upgrade_title": "Upgrade to Pro Version",
+    "upgrade_no_ads": "No ads.",
+    "upgrade_better": "Have better experience.",
+    "upgrade": "UPGRADE NOW",
+    "donate_message": "All your donates gives us great encouragement <3.",
+    "donate_question": "How much you want to donate?",
+    "thank": "Thank for your donation <3."
   }
 }
