@@ -70,7 +70,9 @@
     "upgrade_title": "Nâng Cấp lên Phiên Bản Pro",
     "upgrade_no_ads": "Không chứa quảng cáo.",
     "upgrade_better": "Có trải nghiệm tốt hơn.",
-    "upgrade": "NÂNG CẤP NGAY"
+    "upgrade": "NÂNG CẤP NGAY",
+    "donate_message": "Mọi sự donate của bạn đều là nguồn động viên to lớn cho chúng tôi <3",
+    "donate_question": "Bạn muốn donate bao nhiêu?"
   },
   "en_US": {
     "version": "Version",
@@ -143,6 +145,8 @@
     "upgrade_title": "Upgrade to Pro Version",
     "upgrade_no_ads": "No ads.",
     "upgrade_better": "Have better experience.",
-    "upgrade": "UPGRADE NOW"
+    "upgrade": "UPGRADE NOW",
+    "donate_message": "All your donates gives us great encouragement <3",
+    "donate_question": "How much you want to donate?"
   }
 }
