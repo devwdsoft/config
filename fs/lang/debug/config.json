@@ -72,7 +72,8 @@
     "upgrade_better": "Có trải nghiệm tốt hơn.",
     "upgrade": "NÂNG CẤP NGAY",
     "donate_message": "Mọi sự donate của bạn đều là nguồn động viên to lớn cho chúng tôi <3.",
-    "donate_question": "Bạn muốn donate bao nhiêu?"
+    "donate_question": "Bạn muốn donate bao nhiêu?",
+    "thank": "Cảm ơn bạn đã donate <3."
   },
   "en_US": {
     "version": "Version",
@@ -147,6 +148,7 @@
     "upgrade_better": "Have better experience.",
     "upgrade": "UPGRADE NOW",
     "donate_message": "All your donates gives us great encouragement <3.",
-    "donate_question": "How much you want to donate?"
+    "donate_question": "How much you want to donate?",
+    "thank": "Thank for your donation <3."
   }
 }
