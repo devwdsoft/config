@@ -1,24 +1,10 @@
 {
-  "baseUrl": "http://stg-api.ffscore.net/api/flashscore/",
-  "minAcceptVersion": 1,
-  "isContainsAds": true,
-  "isMaintains": false,
-  "startMaintains": 0,
+  "baseDomain": "https://stg-api.wdsoft.tech/",
+  "baseUrl": "https://stg-api.wdsoft.tech/api/flashscore/",
+  "minAcceptVersion": 100,
+  "isContainsAds": false,
+  "startMaintains": 1652940000,
   "endMaintains": 0,
-  "isUseInAppUpdate": true,
-  "flagUrls": [
-    "https://ffs-rs-1.web.app/image/flags/",
-    "https://ffs-rs-2.web.app/image/flags/",
-    "https://ffs-rs-3.web.app/image/flags/",
-    "https://ffs-rs-4.web.app/image/flags/",
-    "https://ffs-rs-5.web.app/image/flags/",
-    "https://ffs-rs-6.web.app/image/flags/",
-    "https://ffs-rs-7.web.app/image/flags/",
-    "https://ffs-rs-8.web.app/image/flags/",
-    "https://ffs-rs-9.web.app/image/flags/",
-    "https://ffs-rs-10.web.app/image/flags/",
-    "https://ffs-rs-11.web.app/image/flags/"
-  ],
   "images": [
     "https://flashresource-0.web.app/image/",
     "https://flashresource-1.web.app/image/",
@@ -31,6 +17,11 @@
     "https://flashresource-8.web.app/image/",
     "https://flashresource-9.web.app/image/"
   ],
+  "newsImages": [
+    "https://flashnews-0.web.app/news/",
+    "https://flashnews-1.web.app/news/",
+    "https://flashnews-2.web.app/news/"
+  ],
   "tournamentStats": {
     "1": "Goals",
     "3": "Assists",
@@ -40,11 +31,11 @@
   },
   "phases": {
     "2": {
-      "col": "0x260755",
+      "col": "0x640064",
       "des": "Play-off"
     },
     "3": {
-      "col": "0x6002EE",
+      "col": "0x780078",
       "des": "Qualification play-off"
     },
     "5": {
@@ -60,7 +51,7 @@
       "des": "Promotion play-off"
     },
     "14": {
-      "col": "0x961A3D",
+      "col": "0x6E0000",
       "des": "Eliminated"
     },
     "15": {
@@ -84,11 +75,11 @@
       "des": "Europa League"
     },
     "26": {
-      "col": "0x4304A0",
+      "col": "0xBD9810",
       "des": "Europa League qualification"
     },
     "27": {
-      "col": "0x260755",
+      "col": "0x640064",
       "des": "Europa League qualification play-off"
     },
     "28": {
@@ -104,11 +95,11 @@
       "des": "Next stage"
     },
     "31": {
-      "col": "0x260755",
+      "col": "0x640064",
       "des": "Possible qualification for the next stage"
     },
     "32": {
-      "col": "0x152034",
+      "col": "0x006E6E",
       "des": "Olympic Games"
     },
     "33": {
@@ -116,11 +107,11 @@
       "des": "World Cup"
     },
     "34": {
-      "col": "0x152034",
+      "col": "0x006E6E",
       "des": "EURO"
     },
     "35": {
-      "col": "0x152034",
+      "col": "0x006E6E",
       "des": "Africa Cup of Nations"
     },
     "37": {
@@ -140,15 +131,15 @@
       "des": "AFC Champions League qualification"
     },
     "44": {
-      "col": "0xAB5E03",
+      "col": "0x072D5B",
       "des": "AFC Cup"
     },
     "45": {
-      "col": "0x23DF8C",
+      "col": "0x6002EE",
       "des": "AFC Cup qualification"
     },
     "46": {
-      "col": "0x23DF8C",
+      "col": "0x006400",
       "des": "AFC President's Cup"
     },
     "50": {
@@ -167,32 +158,28 @@
       "col": "0xAB5E03",
       "des": "Copa Sudamericana Qualification"
     },
-    "54": {
-      "col": "0xAB5E03",
-      "des": "Qualification to Copa Sudamericana Final Stage"
-    },
     "58": {
       "col": "0x23DF8C",
       "des": "CONCACAF Champions League"
     },
     "60": {
-      "col": "0xAB5E03",
+      "col": "0x97790D",
       "des": "CFU Club Championship"
     },
     "64": {
-      "col": "0x072D5B",
+      "col": "0x00356E",
       "des": "OFC Champions League"
     },
     "65": {
-      "col": "0x0075FF",
+      "col": "0x0052AA",
       "des": "OFC Champions League qualification"
     },
     "72": {
-      "col": "0x152034",
+      "col": "0x006E6E",
       "des": "Final"
     },
     "86": {
-      "col": "0x260755",
+      "col": "0x640064",
       "des": "Top 6"
     },
     "100": {
@@ -204,39 +191,39 @@
       "des": "Championship play-off (additional spot(s) for UEFA Champions League qualification)"
     },
     "102": {
-      "col": "0xAB5E03",
+      "col": "0x97790D",
       "des": "Championship play-off (additional spot(s) for UEFA Europa League)"
     },
     "103": {
-      "col": "0x4304A0",
+      "col": "0xBD9810",
       "des": "Championship play-off (additional spot(s) for UEFA Europa League qualification)"
     },
     "107": {
-      "col": "0x072D5B",
+      "col": "0x00356E",
       "des": "Championship play-off (additional spot(s) for CAF Champions League qualification)"
     },
     "109": {
-      "col": "0xAB5E03",
+      "col": "0x97790D",
       "des": "Championship play-off (additional spot(s) for CAF Confederation Cup qualification)"
     },
     "112": {
-      "col": "0x0350AB",
+      "col": "0x00448C",
       "des": "Championship play-off (additional spot(s) for AFC Champions League)"
     },
     "113": {
-      "col": "0x0075FF",
+      "col": "0x0052AA",
       "des": "Championship play-off (additional spot(s) for AFC Champions League qualification)"
     },
     "114": {
-      "col": "0xAB5E03",
+      "col": "0x97790D",
       "des": "Championship play-off (additional spot(s) for AFC Cup)"
     },
     "115": {
-      "col": "0x4304A0",
+      "col": "0xBD9810",
       "des": "Championship play-off (additional spot(s) for AFC Cup qualification)"
     },
     "116": {
-      "col": "0x152034",
+      "col": "0x006E6E",
       "des": "Championship play-off (additional spot(s) for AFC President's Cup)"
     },
     "120": {
@@ -244,11 +231,11 @@
       "des": "Championship play-off (additional spot(s) for Copa Libertadores)"
     },
     "121": {
-      "col": "0x0075FF",
+      "col": "0x0052AA",
       "des": "Championship play-off (additional spot(s) for Copa Libertadores qualification)"
     },
     "122": {
-      "col": "0xAB5E03",
+      "col": "0x97790D",
       "des": "Championship play-off (additional spot(s) for Copa Sudamericana)"
     },
     "126": {
@@ -256,35 +243,27 @@
       "des": "Championship play-off (additional spot(s) for CONCACAF Champions League)"
     },
     "128": {
-      "col": "0xAB5E03",
+      "col": "0x97790D",
       "des": "Championship play-off (additional spot(s) for CFU Club Championship)"
     },
     "132": {
-      "col": "0x0350AB",
+      "col": "0x00448C",
       "des": "Championship play-off (additional spot(s) for OFC Champions League)"
     },
     "133": {
-      "col": "0x0075FF",
+      "col": "0x0052AA",
       "des": "Championship play-off (additional spot(s) for OFC Champions League qualification)"
     },
     "140": {
-      "col": "0x152034",
+      "col": "0x006400",
       "des": "Championship play-off gives UEFA Conference League (unused as of September 2020)"
     },
     "141": {
       "col": "0x23DF8C",
       "des": "Championship play-off gives UEFA Conference League qualification"
     },
-    "150": {
-      "col": "0x0350AB",
-      "des": "Qualification to last 16"
-    },
-    "151": {
-      "col": "0xFF8A00",
-      "des": "Qualification to quarter finals"
-    },
     "190": {
-      "col": "0x152034",
+      "col": "0x006400",
       "des": "Europa Conference League"
     },
     "191": {
@@ -365,7 +344,10 @@
     "210": "League cup gives UEFA Europa Conference League.",
     "211": "League cup gives UEFA Europa Conference League qualification."
   },
-  "bannerAds": "",
-  "interstitialAds": "",
-  "updatedTime": "05:00 17-06-2022"
+  "bannerAds": "ca-app-pub-3940256099942544/6300978111",
+  "interstitialAds": "ca-app-pub-3940256099942544/1033173712",
+  "inAppProducts": [
+    "donate_1_usd",
+    "pro_version"
+  ]
 }
