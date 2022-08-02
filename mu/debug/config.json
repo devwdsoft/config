@@ -1,7 +1,7 @@
 {
   "baseDomain": "https://stg-api.wdsoft.tech/",
   "baseUrl": "https://stg-api.wdsoft.tech/api/flashscore/",
-  "minAcceptVersion": 100,
+  "minAcceptVersion": 1,
   "isContainsAds": false,
   "startMaintains": 1652940000,
   "endMaintains": 0,
