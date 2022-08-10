@@ -345,5 +345,16 @@
     "211": "League cup gives UEFA Europa Conference League qualification."
   },
   "bannerAds": "ca-app-pub-3940256099942544/6300978111",
-  "interstitialAds": "ca-app-pub-3940256099942544/1033173712"
+  "interstitialAds": "ca-app-pub-3940256099942544/1033173712",
+  "adsShowPercent": -0.11,
+  "inAppProducts": [
+    "d_1_1",
+    "d_2_1",
+    "d_5_1",
+    "d_10_1",
+    "d_20_1",
+    "d_50_1",
+    "d_100_1",
+    "upgrade"
+  ]
 }
