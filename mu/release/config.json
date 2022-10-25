@@ -1,35 +1,25 @@
 {
+  "baseDomain": "https://api.wdsoft.tech/",
   "baseUrl": "https://api.wdsoft.tech/api/flashscore/",
   "minAcceptVersion": 1,
-  "isContainsAds": true,
+  "isContainsAds": false,
   "isMaintains": false,
   "startMaintains": 0,
   "endMaintains": 0,
   "isUseInAppUpdate": true,
-  "flagUrls": [
-    "https://ffs-rs-1.web.app/image/flags/",
-    "https://ffs-rs-2.web.app/image/flags/",
-    "https://ffs-rs-3.web.app/image/flags/",
-    "https://ffs-rs-4.web.app/image/flags/",
-    "https://ffs-rs-5.web.app/image/flags/",
-    "https://ffs-rs-6.web.app/image/flags/",
-    "https://ffs-rs-7.web.app/image/flags/",
-    "https://ffs-rs-8.web.app/image/flags/",
-    "https://ffs-rs-9.web.app/image/flags/",
-    "https://ffs-rs-10.web.app/image/flags/",
-    "https://ffs-rs-11.web.app/image/flags/"
-  ],
   "images": [
-    "https://flashresource-0.web.app/image/",
-    "https://flashresource-1.web.app/image/",
-    "https://flashresource-2.web.app/image/",
-    "https://flashresource-3.web.app/image/",
-    "https://flashresource-4.web.app/image/",
-    "https://flashresource-5.web.app/image/",
-    "https://flashresource-6.web.app/image/",
-    "https://flashresource-7.web.app/image/",
-    "https://flashresource-8.web.app/image/",
-    "https://flashresource-9.web.app/image/"
+    "https://flashscore-5.web.app/image/",
+    "https://flashscore-6.web.app/image/",
+    "https://flashscore-7.web.app/image/",
+    "https://flashscore-8.web.app/image/",
+    "https://flashscore-9.web.app/image/"
+  ],
+  "newsImages": [
+    "https://flashscore-0.web.app/news/",
+    "https://flashscore-e7f23.web.app/news/",
+    "https://flashscore-2.web.app/news/",
+    "https://flashscore-3.web.app/news/",
+    "https://flashscore-4.web.app/news/"
   ],
   "tournamentStats": {
     "1": "Goals",
@@ -379,7 +369,7 @@
   },
   "bannerAds": "",
   "interstitialAds": "",
-  "updatedTime": "17:53 25-10-2022",
+  "updatedTime": "17:54 25-10-2022",
   "inAppProducts": [
     "d_1_1",
     "d_2_1",
