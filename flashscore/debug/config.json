@@ -21,6 +21,13 @@
     "https://flashscore-3.web.app/news/",
     "https://flashscore-4.web.app/news/"
   ],
+  "trackers": [
+    "https://flashscore-0.web.app/",
+    "https://flashscore-e7f23.web.app/",
+    "https://flashscore-2.web.app/",
+    "https://flashscore-3.web.app/",
+    "https://flashscore-4.web.app/"
+  ],
   "tournamentStats": {
     "1": "Goals",
     "3": "Assists",
