@@ -1,7 +1,7 @@
 {
   "baseDomain": "https://api.wdsoft.tech/",
   "baseUrl": "https://api.wdsoft.tech/api/flashscore/",
-  "minAcceptVersion": 5502,
+  "minAcceptVersion": 5402,
   "isContainsAds": false,
   "isMaintains": false,
   "startMaintains": 0,
