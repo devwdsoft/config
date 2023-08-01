@@ -9,7 +9,7 @@
     "favorite": "Yêu Thích",
     "competitions": "Giải Đấu",
     "competitions_empty": "Không có giải đấu nào để hiển thị!",
-    "favorite_empty": "Nhấn vào Ngôi sao để theo dõi đội bóng hoặc trận đấu!",
+    "favorite_empty": "Nhấn vào nút Chuông để theo dõi đội bóng hoặc trận đấu!",
     "schedule_all_matches": "TẤT CẢ CÁC TRẬN",
     "error_message_retry": "Có lỗi xãy ra!\nVui lòng nhấp vào logo để thử lại!",
     "dark_mode": "Nền tối",
@@ -80,7 +80,9 @@
     "upgrade": "NÂNG CẤP NGAY",
     "donate_message": "Mọi sự donate của bạn đều là nguồn động viên to lớn cho chúng tôi <3.",
     "donate_question": "Bạn muốn donate bao nhiêu?",
-    "thank": "Cảm ơn bạn đã donate <3."
+    "thank": "Cảm ơn bạn đã donate <3.",
+    "notification_permission_message": "Để nhận được thông báo về các trận đấu. Vui lòng cho phép ứng dụng có thể hiển thị thông báo.",
+    "notification_permission_button": "Đồng ý"
   },
   "en_US": {
     "version": "Version",
@@ -92,7 +94,7 @@
     "favorite": "Favorites",
     "competitions": "Competitions",
     "competitions_empty": "Have no competition to show!",
-    "favorite_empty": "Tap to Star button to follow Teams or Matches live events!",
+    "favorite_empty": "Tap to Bell button to follow Teams or Matches live events!",
     "schedule_all_matches": "ALL MATCHES",
     "error_message_retry": "Have an error!\nClick the logo to retry. Thank you!",
     "dark_mode": "Dark mode",
@@ -163,6 +165,8 @@
     "upgrade": "UPGRADE NOW",
     "donate_message": "All your donates gives us great encouragement <3.",
     "donate_question": "How much you want to donate?",
-    "thank": "Thank for your donation <3."
+    "thank": "Thank for your donation <3.",
+    "notification_permission_message": "To receive notifications from matches, please allow the app to display notifications.",
+    "notification_permission_button": "Allow"
   }
 }
