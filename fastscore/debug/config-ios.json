@@ -1,6 +1,7 @@
 {
   "baseDomain": "https://stg-api.wdsoft.tech/",
   "baseUrl": "https://stg-api.wdsoft.tech/api/flashscore/",
+    "releaseBuilds": [],
   "minAcceptVersion": 1,
   "isContainsAds": false,
   "isMaintains": false,
