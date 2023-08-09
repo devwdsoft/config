@@ -4,7 +4,7 @@
   "releaseBuilds": [
     15
   ],
-  "minAcceptVersion": 10,
+  "minAcceptVersion": 15,
   "isContainsAds": false,
   "isMaintains": false,
   "startMaintains": 0,
