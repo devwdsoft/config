@@ -1,1 +1,22 @@
-
+{
+    "releaseBuilds": [
+        -1
+    ],
+    "minAcceptVersion": 5503,
+    "isContainsAds": false,
+    "isMaintains": false,
+    "startMaintains": 0,
+    "endMaintains": 0,
+    "isUseInAppUpdate": true,
+    "inAppProducts": [
+        "d_1_1",
+        "d_2_1",
+        "d_5_1",
+        "d_10_1",
+        "d_20_1",
+        "d_50_1",
+        "d_100_1",
+        "upgrade"
+    ],
+    "updatedTime": "05:00 13-08-2023"
+}

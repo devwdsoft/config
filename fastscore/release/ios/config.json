@@ -1,1 +1,13 @@
-
+{
+    "releaseBuilds": [
+        15,
+        16
+    ],
+    "minAcceptVersion": 15,
+    "isContainsAds": false,
+    "isMaintains": false,
+    "startMaintains": 0,
+    "endMaintains": 0,
+    "isUseInAppUpdate": true,
+    "updatedTime": "05:00 13-08-2023"
+}
