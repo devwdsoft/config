@@ -1,8 +1,6 @@
 {
-    "minAcceptVersion": 5503,
-    "releaseBuilds": [
-        -1
-    ],
+    "minAcceptVersion": 1,
+    "releaseBuilds": [],
     "startMaintains": 0,
     "endMaintains": 0,
     "isUseInAppUpdate": true,
