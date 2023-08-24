@@ -1,7 +1,7 @@
 {
     "baseDomain": "https://stg-api.wdsoft.tech/",
     "baseUrl": "https://stg-api.wdsoft.tech/api/flashscore/",
-    "newsDomain": "https://fcovr.com",
+    "newsDomain": "https://fcovr.com/",
     "images": [
         "https://flashscore-5.web.app/image/",
         "https://flashscore-6.web.app/image/",
