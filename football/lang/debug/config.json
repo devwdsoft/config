@@ -82,7 +82,8 @@
     "donate_question": "Bạn muốn donate bao nhiêu?",
     "thank": "Cảm ơn bạn đã donate <3.",
     "notification_permission_message": "Để nhận được thông báo về các trận đấu. Vui lòng cho phép ứng dụng có thể hiển thị thông báo.",
-    "notification_permission_button": "Đồng ý"
+    "notification_permission_button": "Đồng ý",
+    "notification_permission_button_no": "Huỷ"
   },
   "en_US": {
     "version": "Version",
@@ -167,6 +168,7 @@
     "donate_question": "How much you want to donate?",
     "thank": "Thank for your donation <3.",
     "notification_permission_message": "To receive notifications from matches, please allow the app to display notifications.",
-    "notification_permission_button": "Allow"
+    "notification_permission_button": "Allow",
+    "notification_permission_button_no": "No"
   }
 }
