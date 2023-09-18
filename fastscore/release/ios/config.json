@@ -1,11 +1,12 @@
 {
-    "minAcceptVersion": 15,
-    "releaseBuilds": [
-        15,
-        16
-    ],
-    "startMaintains": 0,
-    "endMaintains": 0,
-    "isUseInAppUpdate": true,
-    "inAppProducts": []
+  "minAcceptVersion": 15,
+  "releaseBuilds": [
+    15,
+    16,
+    19
+  ],
+  "startMaintains": 0,
+  "endMaintains": 0,
+  "isUseInAppUpdate": true,
+  "inAppProducts": []
 }
