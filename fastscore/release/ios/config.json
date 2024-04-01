@@ -1,9 +1,10 @@
 {
-  "minAcceptVersion": 15,
+  "minAcceptVersion": 21,
   "releaseBuilds": [
     15,
     16,
-    19
+    19,
+    21
   ],
   "startMaintains": 0,
   "endMaintains": 0,
