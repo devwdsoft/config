@@ -1,6 +1,6 @@
 {
-  "baseDomain": "https://stg-api.wdsoft.tech/",
-  "baseUrl": "https://stg-api.wdsoft.tech/api/flashscore/",
+  "baseDomain": "https://stg-api.fastscore.fun/",
+  "baseUrl": "https://stg-api.fastscore.fun/api/flashscore/",
   "minAcceptVersion": 107,
   "isContainsAds": false,
   "isMaintains": false,
