@@ -1,7 +1,7 @@
 {
   "baseDomain": "https://api.fastscore.fun/",
   "baseUrl": "https://api.fastscore.fun/api/flashscore/",
-  "minAcceptVersion": 42,
+  "minAcceptVersion": 53,
   "isContainsAds": false,
   "isMaintains": false,
   "startMaintains": 0,
