@@ -84,7 +84,8 @@
     "notification_permission_message": "Để nhận được thông báo về các trận đấu. Vui lòng cho phép ứng dụng có thể hiển thị thông báo.",
     "notification_permission_button": "Đồng ý",
     "notification_permission_button_no": "Không, cảm ơn",
-    "notice": "Bật thông báo"
+    "notice": "Bật thông báo",
+    "pen_overturned": "Penalty bị huỷ"
   },
   "en_US": {
     "version": "Version",
@@ -171,7 +172,7 @@
     "notification_permission_message": "To receive notifications from matches, please allow the app to display notifications.",
     "notification_permission_button": "Allow",
     "notification_permission_button_no": "No, thank",
-    "notice": "Notification"
-
+    "notice": "Notification",
+    "pen_overturned": "Penalty Overturned"
   }
 }
