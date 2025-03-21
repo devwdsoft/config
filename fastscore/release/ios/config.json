@@ -1,5 +1,5 @@
 {
-  "minAcceptVersion": 21,
+  "minAcceptVersion": 25,
   "releaseBuilds": [
     15,
     16,
