@@ -5,11 +5,12 @@
     16,
     19,
     21,
-    25,
-    26
+    25
   ],
   "startMaintains": 0,
   "endMaintains": 0,
   "isUseInAppUpdate": true,
-  "inAppProducts": []
+  "inAppProducts": [
+    "upgrade"
+  ]
 }
