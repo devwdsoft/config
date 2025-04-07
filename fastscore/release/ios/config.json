@@ -12,6 +12,12 @@
   "endMaintains": 0,
   "isUseInAppUpdate": true,
   "inAppProducts": [
-    "upgrade"
+    "upgrade",
+    "donate_1",
+    "donate_2",
+    "donate_5",
+    "donate_10",
+    "donate_50",
+    "donate_100"
   ]
 }
