@@ -91,7 +91,23 @@
     "notification_permission_button_no": "Không, cảm ơn",
     "notice": "Bật thông báo",
     "pen_overturned": "Penalty bị huỷ",
-    "popular_search": "Phổ biến"
+    "popular_search": "Phổ biến",
+    "Forward": "Tiền đạo",
+    "Midfielder": "Tiền vệ",
+    "Defender": "Hậu vệ",
+    "Goalkeeper": "Thủ môn",
+    "Overview": "Tổng quan",
+    "Matches": "Trận đấu",
+    "Height": "Chiều cao",
+    "years": "tuổi",
+    "Country": "Quốc tịch",
+    "Goals": "Bàn thắng",
+    "Assists": "Hỗ trợ",
+    "Clearances": "Phá bóng",
+    "Goal conceded": "Bàn thua",
+    "Clean sheets": "Giữ sạch lưới",
+    "League Stats": "Thống kê giải đấu",
+    "Club History": "Lịch sử CLB"
   },
   "en_US": {
     "version": "Version",
@@ -185,6 +201,22 @@
     "notification_permission_button_no": "No, thank",
     "notice": "Notification",
     "pen_overturned": "Penalty Overturned",
-    "popular_search": "Popular"
+    "popular_search": "Popular",
+    "Forward": "Forward",
+    "Midfielder": "Midfielder",
+    "Defender": "Defender",
+    "Goalkeeper": "Goalkeeper",
+    "Overview": "Overview",
+    "Matches": "Matches",
+    "Height": "Height",
+    "years": "years",
+    "Country": "Country",
+    "Goals": "Goals",
+    "Assists": "Assists",
+    "Clearances": "Clearances",
+    "Goal conceded": "Goal Conceded",
+    "Clean sheets": "Clean Sheets",
+    "League Stats": "League Stats",
+    "Club History": "Club History"
   }
 }
